@@ -1,9 +1,9 @@
 # SecureGate — Reflection & Engineering Analysis
 
-**Name:** [Your full name]
+**Name:** Samuel Sunday
 **Cohort:** Design to MVP Bootcamp
-**Live URL:** [Your Vercel deployment link]
-**GitHub Repo:** [Your repo URL]
+**Live URL:** https://securegate-app-omega.vercel.app
+**GitHub Repo:** https://github.com/sunsam27/Secure-gate
 
 ---
 
